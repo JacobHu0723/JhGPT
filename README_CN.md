@@ -4,7 +4,7 @@
   <img src="./docs/images/ent.svg" alt="icon"/>
 </a>
 
-<h1 align="center">JhGPT-Plus</h1>
+<h1 align="center">JhGPT</h1>
 
 一键免费部署你的私人 ChatGPT 网页应用，支持 Claude, GPT4 & Gemini Pro 模型。
 
